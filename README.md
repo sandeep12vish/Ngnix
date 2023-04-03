@@ -1,0 +1,2 @@
+# Ngnix
+complete ngnix tutorial
